@@ -24,7 +24,7 @@
 
 **Associated Materials:** TODO
 
-**Keywords (Tags):** da
+**Keywords (Tags):** TODO
 
 **Prerequisite Knowledge:** (1) Python, (2) NumPy 
 
@@ -93,4 +93,3 @@ Now that you've learned how to deploy a Flask environment,there is much more tha
      width="100%" />
 
 <hr style="border: 2px solid#003262;" />
-# intro_PANDAS
