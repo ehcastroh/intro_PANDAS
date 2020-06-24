@@ -24,7 +24,7 @@
 
 **Associated Materials:** TODO
 
-**Keywords (Tags):** TODO
+**Keywords (Tags):** data-science, data-analysis, pandas, pandas-tutorial, pandas-python, statistical-analysis, numerical-analysis, data-x 
 
 **Prerequisite Knowledge:** (1) Python, (2) NumPy 
 
