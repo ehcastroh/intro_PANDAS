@@ -16,13 +16,13 @@
 
 
 
-**Author List (in no particular order):** [Priya Kamdar](www.linkedin.com/in/priya-kamdar), [Ikhlaq Sidhu](https://ikhlaq-sidhu.com/), [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), and [Debbie Yuen](http://www.debbiecyuen.me/) 
+**Author List (in no particular order):** [Priya Kamdar](www.linkedin.com/in/priya-kamdar), [Alexander Fred-Ojala](https://www.linkedin.com/in/alexanderfo/), [Ikhlaq Sidhu](https://ikhlaq-sidhu.com/), [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), and [Debbie Yuen](http://www.debbiecyuen.me/) 
 
-**About (TL/DR):** TODO
+**About (TL/DR):** Pandas is a commonly used, yet powerful, software library written for Python that is built for expedient data manipulation and analysis. 
 
-**Learning Goal(s):** TODO
+**Learning Goal(s):** This notebook aims to introduce the syntax, data structures, and manipulation operations commonly seen in Pandas.
 
-**Associated Materials:** TODO
+**Associated Materials:** None
 
 **Keywords (Tags):** data-science, data-analysis, pandas, pandas-tutorial, pandas-python, statistical-analysis, numerical-analysis, data-x 
 
@@ -36,53 +36,59 @@
 <hr style="border: 4px solid#003262;" />
 
 <img src="assets/content/images/flask-03.png"
-     alt="Simple Archtecture"
+     alt="Simple Architecture"
      align="center" 
      style="align:center" 
      width="40%"/>
      
 ### **CONTENT**   
 
-  - m320_Setting_up_Flask -- Fundamental overview of creating a Flask website.
-  - homeworks/   -- Contains several exercises to help you master the material.
+  - m120_Intro_data_analysis_using_pandas -- Pandas data structures and data manipulation.
+  - assets/homeworks/   -- Contains several exercises to help you master the material.
 
-#### **I. SETTING UP A FLASK ENVIRONMENT**
+#### **I. DATAFRAME CREATION**
 
 <img src="assets/content/images/flaskintroscreens_updated-05.png"
-     alt="Simple Archtecture"
+     alt="Simple Architecture"
      align="center" 
      style="align:center" 
      width="40%"/>
      
-    1) FLASK SETUP AND WORKFLOW    
-    2) BASIC FLASK UP-AND-RUNNING
-
-#### **II. DESIGN, BEHAVIORS, AND STORAGE**
+    1) TODO
+    
+#### **II. READING DATA IN DATAFRAMES**
 
 <img src="assets/content/images/flaskintroscreens_updated-06_09.png"
-     alt="Simple Archtecture"
+     alt="Simple Architecture"
      align="center" 
      style="align:center" 
      width="40%"/>
      
-    1) SET UP NESTED DIRECTORIES AND FILES
-    2) SET BASIC HTML & CSS
-    3) LINK FLASK TO SQLITE
-    4) (OPTIONAL): IMPLEMENT MYSQL DATABASE AND SERVER ENVIRONMENT
+    1) TODO
+
+#### **III. DATA MANIPULATION**
+
+<img src="assets/content/images/flaskintroscreens_updated-06_09.png"
+     alt="Simple Architecture"
+     align="center" 
+     style="align:center" 
+     width="40%"/>
+     
+    1) TODO   
     
-    
-#### **III. WRAP UP AND NEXT STEPS**
+#### **IV. WRAP UP AND NEXT STEPS**
 
 
-Now that you've learned how to deploy a Flask environment,there is much more than can be done using Flask. Visit the [Data-X website](https://datax.berkeley.edu/) to learn how to link Flask to other services, or use the following links to curated topics of interest:
+Now that you're familiar with how to use Pandas,there is much more than can be done. Visit the [**Data-X website**](https://datax.berkeley.edu/) to learn how to use Pandas in areas such a pipeline creation, data visualization, or use the following links to curated topics of interest:
 
-> [**Emails With Flask + SMTPLIB: url needed**]() Capitalizes on Flask's barebones architecture to create a lightweight email client using SMTPLIB
+> [**INTRODUCTION TO NUMERICAL ANALSYS USING NUMPY (m110): url needed**]() Shows you how to deploy your Flask environment in an elastic server
 
-> [**Linking AWS With FLASK: url needed**]() Shows you how to deploy your Flask environment in an elastic server
+> [**INTRODUCTION TO DATA VISUALIZATION USING MATPLOTLIB + SEABORN (m130): url needed**]() Covers the process of using DataFrames to create engaging visualizations <br>
 
-> [**Dashboards Using D3.js + Flask: url needed**]() Covers how to deploy a dashboard Flask website with dynamic plots using D3.js
+> [**SYNTHETIC DATA GENERATION USING PANDAS (m190): url needed (**]() Covers data augmentation (creating statistically valid data), and data correction (using ML to fill-in missing data)
 
-> [**Productionized Machine Learning Models Using Flask: : url needed**]() Introduces how to deploy machine learning models that are accessible via the web
+
+
 
 
 
