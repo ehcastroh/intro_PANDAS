@@ -56,7 +56,7 @@
      
     1) TODO
     
-#### **II. READING DATA IN DATAFRAMES**
+#### **II. READ-IN AND EXPLORE DATA USING DATAFRAMES**
 
 <img src="assets/content/images/flaskintroscreens_updated-06_09.png"
      alt="Simple Architecture"
@@ -66,17 +66,8 @@
      
     1) TODO
 
-#### **III. DATA MANIPULATION**
-
-<img src="assets/content/images/flaskintroscreens_updated-06_09.png"
-     alt="Simple Architecture"
-     align="center" 
-     style="align:center" 
-     width="40%"/>
-     
-    1) TODO   
     
-#### **IV. WRAP UP AND NEXT STEPS**
+#### **III. WRAP UP AND NEXT STEPS**
 
 
 Now that you're familiar with how to use Pandas,there is much more than can be done. Visit the [**Data-X website**](https://datax.berkeley.edu/) to learn how to use Pandas in areas such a pipeline creation, data visualization, or use the following links to curated topics of interest:
