@@ -35,8 +35,8 @@
 
 <hr style="border: 4px solid#003262;" />
 
-<img src="assets/content/images/flask-03.png"
-     alt="Simple Architecture"
+<img src="assets/content/images/pandas_thumbnail1-01.png"
+     alt="pandas thumbnail"
      align="center" 
      style="align:center" 
      width="40%"/>
@@ -54,7 +54,9 @@
      style="align:center" 
      width="40%"/>
      
-    1) TODO
+    1) PART 1.1: PANDAS DATAFRAME
+    2) PART 1.2: DATAFRAME CREATION
+    3) PART 1.3: ACCESSING DATAFRAME
     
 #### **II. READ-IN AND EXPLORE DATA USING DATAFRAMES**
 
@@ -64,7 +66,9 @@
      style="align:center" 
      width="40%"/>
      
-    1) TODO
+    1) PART 2.1: READ DATA INTO DATAFRAMES
+    2) PART 2.2: WRITING DATA TO CSV
+    3) PART 2.3 (OPTIONAL): READ AND WRITE EXCEL FILES
 
     
 #### **III. WRAP UP AND NEXT STEPS**
