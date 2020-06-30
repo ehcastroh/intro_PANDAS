@@ -48,7 +48,7 @@
 
 #### **I. DATAFRAME CREATION**
 
-<img src="assets/content/images/flaskintroscreens_updated-05.png"
+<img src="assets/content/images/pandas-19.png"
      alt="Simple Architecture"
      align="center" 
      style="align:center" 
@@ -60,7 +60,7 @@
     
 #### **II. READ-IN AND EXPLORE DATA USING DATAFRAMES**
 
-<img src="assets/content/images/flaskintroscreens_updated-06_09.png"
+<img src="assets/content/images/pandas-16.png"
      alt="Simple Architecture"
      align="center" 
      style="align:center" 
@@ -76,11 +76,11 @@
 
 Now that you're familiar with how to use Pandas,there is much more than can be done. Visit the [**Data-X website**](https://datax.berkeley.edu/) to learn how to use Pandas in areas such a pipeline creation, data visualization, or use the following links to curated topics of interest:
 
-> [**INTRODUCTION TO NUMERICAL ANALSYS USING NUMPY (m110): url needed**]() Shows you how to deploy your Flask environment in an elastic server
+> [INTRODUCTION TO NUMERICAL ANALSYS USING NUMPY (m110): url needed]() Covers numerical analysis using NumPy.
 
-> [**INTRODUCTION TO DATA VISUALIZATION USING MATPLOTLIB + SEABORN (m130): url needed**]() Covers the process of using DataFrames to create engaging visualizations <br>
+> [INTRODUCTION TO DATA VISUALIZATION USING MATPLOTLIB + SEABORN (m130): url needed]() Covers the process of using DataFrames to create engaging visualizations <br>
 
-> [**SYNTHETIC DATA GENERATION USING PANDAS (m190): url needed (**]() Covers data augmentation (creating statistically valid data), and data correction (using ML to fill-in missing data)
+> [SYNTHETIC DATA GENERATION USING PANDAS (m190): url needed]() Covers data augmentation (creating statistically valid data), and data correction (using ML to fill-in missing data)
 
 
 
